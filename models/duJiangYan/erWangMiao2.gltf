@@ -1,0 +1,3755 @@
+{
+    "accessors": {
+        "accessor_1759": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 126,
+            "type": "SCALAR"
+        },
+        "accessor_1762": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 252,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 11826,
+            "type": "SCALAR"
+        },
+        "accessor_1765": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 23904,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 288,
+            "type": "SCALAR"
+        },
+        "accessor_1768": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 24480,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 378,
+            "type": "SCALAR"
+        },
+        "accessor_1771": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 25236,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 1737,
+            "type": "SCALAR"
+        },
+        "accessor_1774": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 28710,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 72,
+            "type": "SCALAR"
+        },
+        "accessor_1777": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 28854,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 2082,
+            "type": "SCALAR"
+        },
+        "accessor_1780": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 33018,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 48,
+            "type": "SCALAR"
+        },
+        "accessor_1783": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 33114,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+        },
+        "accessor_1786": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 33186,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+        },
+        "accessor_1789": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 33258,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+        },
+        "accessor_1792": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 33330,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 144,
+            "type": "SCALAR"
+        },
+        "accessor_1795": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 33618,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_1798": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 33630,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 24,
+            "type": "SCALAR"
+        },
+        "accessor_1801": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 33678,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 816,
+            "type": "SCALAR"
+        },
+        "accessor_1804": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 35310,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+        },
+        "accessor_1807": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 35382,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_1810": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 35394,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_1813": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 35406,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_1816": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 35418,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 42,
+            "type": "SCALAR"
+        },
+        "accessor_1819": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 35502,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_1822": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 35514,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 132,
+            "type": "SCALAR"
+        },
+        "accessor_1825": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 35778,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 48,
+            "type": "SCALAR"
+        },
+        "accessor_1828": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 35874,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_1831": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 35886,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 12,
+            "type": "SCALAR"
+        },
+        "accessor_1834": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 35910,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 42,
+            "type": "SCALAR"
+        },
+        "accessor_1837": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 35994,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 30,
+            "type": "SCALAR"
+        },
+        "accessor_1840": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 36054,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 186,
+            "type": "SCALAR"
+        },
+        "accessor_1843": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 36426,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 552,
+            "type": "SCALAR"
+        },
+        "accessor_1846": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 37530,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 432,
+            "type": "SCALAR"
+        },
+        "accessor_1849": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 38394,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 9888,
+            "type": "SCALAR"
+        },
+        "accessor_1852": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 58170,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 636,
+            "type": "SCALAR"
+        },
+        "accessor_1855": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 59442,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 12,
+            "type": "SCALAR"
+        },
+        "accessor_1858": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 59466,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_1861": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 59478,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 12,
+            "type": "SCALAR"
+        },
+        "accessor_1864": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 59502,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 99,
+            "type": "SCALAR"
+        },
+        "accessor_1867": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 59700,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_1870": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 59712,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+        },
+        "accessor_1873": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 59784,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+        },
+        "accessor_1876": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 59856,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 3636,
+            "type": "SCALAR"
+        },
+        "accessor_1879": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 67128,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 60,
+            "type": "SCALAR"
+        },
+        "accessor_1882": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 67248,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 48,
+            "type": "SCALAR"
+        },
+        "accessor_1885": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 67344,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 168,
+            "type": "SCALAR"
+        },
+        "accessor_1888": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 67680,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 486,
+            "type": "SCALAR"
+        },
+        "accessor_1891": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 68652,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 144,
+            "type": "SCALAR"
+        },
+        "accessor_1894": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 68940,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 192,
+            "type": "SCALAR"
+        },
+        "accessor_1897": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 69324,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 708,
+            "type": "SCALAR"
+        },
+        "accessor_1900": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 70740,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 2394,
+            "type": "SCALAR"
+        },
+        "accessor_1903": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 75528,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 24,
+            "type": "SCALAR"
+        },
+        "accessor_1906": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 75576,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 480,
+            "type": "SCALAR"
+        },
+        "accessor_1909": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 76536,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 186,
+            "type": "SCALAR"
+        },
+        "accessor_1912": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 76908,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 180,
+            "type": "SCALAR"
+        },
+        "accessor_1915": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 77268,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+        },
+        "accessor_1918": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 77340,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 54,
+            "type": "SCALAR"
+        },
+        "accessor_1921": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 77448,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 84,
+            "type": "SCALAR"
+        },
+        "accessor_1924": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 77616,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 24,
+            "type": "SCALAR"
+        },
+        "accessor_1927": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 77664,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 192,
+            "type": "SCALAR"
+        },
+        "accessor_1930": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 78048,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 12,
+            "type": "SCALAR"
+        },
+        "accessor_1933": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 78072,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 258,
+            "type": "SCALAR"
+        },
+        "accessor_1936": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 78588,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 3672,
+            "type": "SCALAR"
+        },
+        "accessor_1939": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 85932,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 288,
+            "type": "SCALAR"
+        },
+        "accessor_1942": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 86508,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 54,
+            "type": "SCALAR"
+        },
+        "accessor_1945": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 86616,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 192,
+            "type": "SCALAR"
+        },
+        "accessor_1948": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 87000,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+        },
+        "accessor_1951": {
+            "bufferView": "bufferView_1963",
+            "byteOffset": 87072,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 24,
+            "type": "SCALAR"
+        },
+        "accessor_1953": {
+            "bufferView": "bufferView_1964",
+            "byteOffset": 0,
+            "byteStride": 12,
+            "componentType": 5126,
+            "count": 26193,
+            "max": [
+                16.9966,
+                4.9066,
+                21.6232
+            ],
+            "min": [
+                -16.9966,
+                -4.9066,
+                -21.6231
+            ],
+            "type": "VEC3"
+        },
+        "accessor_1955": {
+            "bufferView": "bufferView_1964",
+            "byteOffset": 314316,
+            "byteStride": 12,
+            "componentType": 5126,
+            "count": 26193,
+            "max": [
+                0.9997,
+                1,
+                0.9997
+            ],
+            "min": [
+                -0.9999,
+                -1,
+                -0.9997
+            ],
+            "type": "VEC3"
+        },
+        "accessor_1957": {
+            "bufferView": "bufferView_1964",
+            "byteOffset": 628632,
+            "byteStride": 8,
+            "componentType": 5126,
+            "count": 26193,
+            "max": [
+                39.422,
+                13.0511
+            ],
+            "min": [
+                -32.2578,
+                -8.4443
+            ],
+            "type": "VEC2"
+        },
+        "accessor_1959": {
+            "bufferView": "bufferView_1964",
+            "byteOffset": 838176,
+            "byteStride": 12,
+            "componentType": 5126,
+            "count": 26193,
+            "max": [
+                0.999914,
+                1,
+                0.999988
+            ],
+            "min": [
+                -0.999995,
+                -1,
+                -0.999977
+            ],
+            "type": "VEC3"
+        },
+        "accessor_1961": {
+            "bufferView": "bufferView_1964",
+            "byteOffset": 1152492,
+            "byteStride": 12,
+            "componentType": 5126,
+            "count": 26193,
+            "max": [
+                0.999995,
+                1,
+                0.999958
+            ],
+            "min": [
+                -0.999912,
+                -1,
+                -0.999968
+            ],
+            "type": "VEC3"
+        }
+    },
+    "animations": {},
+    "asset": {
+        "generator": "collada2gltf@abb81d52ce290268fdb67b96f5bc5c620dee5bb5",
+        "premultipliedAlpha": true,
+        "profile": "WebGL 1.0.2",
+        "version": 0.8
+    },
+    "bufferViews": {
+        "bufferView_1963": {
+            "buffer": "erWangMiao2",
+            "byteLength": 87120,
+            "byteOffset": 0,
+            "target": 34963
+        },
+        "bufferView_1964": {
+            "buffer": "erWangMiao2",
+            "byteLength": 1466808,
+            "byteOffset": 87120,
+            "target": 34962
+        }
+    },
+    "buffers": {
+        "erWangMiao2": {
+            "byteLength": 1553928,
+            "type": "arraybuffer",
+            "uri": "erWangMiao2.bin"
+        }
+    },
+    "images": {
+        "DJY_D1_BUI_TJ24_jpg": {
+            "uri": "images/21_DJY_D1_BUI_TJ24.jpg"
+        },
+        "DJY_D1_BUI_mxx20_jpg": {
+            "uri": "images/6_DJY_D1_BUI_mxx20.jpg"
+        },
+        "DJY_D2_BUI_hjc002_jpg": {
+            "uri": "images/4_DJY_D2_BUI_hjc002.jpg"
+        },
+        "DJY_D2_BUI_hjc008_jpg": {
+            "uri": "images/32_DJY_D2_BUI_hjc008.jpg"
+        },
+        "DJY_D2_BUI_hjc015_jpg": {
+            "uri": "images/3_DJY_D2_BUI_hjc015.jpg"
+        },
+        "DJY_D2_BUI_hjc017_jpg": {
+            "uri": "images/11_DJY_D2_BUI_hjc017.jpg"
+        },
+        "DJY_D2_BUI_hjc018_jpg": {
+            "uri": "images/0_DJY_D2_BUI_hjc018.jpg"
+        },
+        "DJY_D2_BUI_hjc019_jpg": {
+            "uri": "images/1_DJY_D2_BUI_hjc019.jpg"
+        },
+        "DJY_D2_BUI_hjc020_jpg": {
+            "uri": "images/2_DJY_D2_BUI_hjc020.jpg"
+        },
+        "DJY_D2_BUI_hjc036_jpg": {
+            "uri": "images/29_DJY_D2_BUI_hjc036.jpg"
+        },
+        "DJY_D2_BUI_hjc037_jpg": {
+            "uri": "images/28_DJY_D2_BUI_hjc037.jpg"
+        },
+        "DJY_D2_BUI_hjc039_jpg": {
+            "uri": "images/53_DJY_D2_BUI_hjc039.jpg"
+        },
+        "DJY_D2_BUI_hjc055_jpg": {
+            "uri": "images/27_DJY_D2_BUI_hjc055.jpg"
+        },
+        "DJY_D2_BUI_hjc068_jpg": {
+            "uri": "images/5_DJY_D2_BUI_hjc068.jpg"
+        },
+        "DJY_D2_BUI_hjc070_jpg": {
+            "uri": "images/30_DJY_D2_BUI_hjc070.jpg"
+        },
+        "DJY_D2_BUI_hjc071_jpg": {
+            "uri": "images/31_DJY_D2_BUI_hjc071.jpg"
+        },
+        "DJY_D2_BUI_hjc072_jpg": {
+            "uri": "images/34_DJY_D2_BUI_hjc072.jpg"
+        },
+        "DJY_D2_BUI_hjc074_jpg": {
+            "uri": "images/24_DJY_D2_BUI_hjc074.jpg"
+        },
+        "DJY_D2_BUI_hjc075_jpg": {
+            "uri": "images/35_DJY_D2_BUI_hjc075.jpg"
+        },
+        "DJY_D2_BUI_hjc076_jpg": {
+            "uri": "images/33_DJY_D2_BUI_hjc076.jpg"
+        },
+        "DJY_D2_BUI_hjc077_jpg": {
+            "uri": "images/7_DJY_D2_BUI_hjc077.jpg"
+        },
+        "DJY_D2_BUI_hjc078_jpg": {
+            "uri": "images/8_DJY_D2_BUI_hjc078.jpg"
+        },
+        "DJY_D2_BUI_hjc079_jpg": {
+            "uri": "images/9_DJY_D2_BUI_hjc079.jpg"
+        },
+        "DJY_D2_BUI_hjc080_jpg": {
+            "uri": "images/10_DJY_D2_BUI_hjc080.jpg"
+        },
+        "DJY_D2_BUI_hjc081_jpg": {
+            "uri": "images/12_DJY_D2_BUI_hjc081.jpg"
+        },
+        "DJY_D2_BUI_hjc082_jpg": {
+            "uri": "images/13_DJY_D2_BUI_hjc082.jpg"
+        },
+        "DJY_D2_BUI_hjc083_jpg": {
+            "uri": "images/14_DJY_D2_BUI_hjc083.jpg"
+        },
+        "DJY_D2_BUI_hjc084_jpg": {
+            "uri": "images/15_DJY_D2_BUI_hjc084.jpg"
+        },
+        "DJY_D2_BUI_hjc085_jpg": {
+            "uri": "images/19_DJY_D2_BUI_hjc085.jpg"
+        },
+        "DJY_D2_BUI_hjc086_jpg": {
+            "uri": "images/17_DJY_D2_BUI_hjc086.jpg"
+        },
+        "DJY_D2_BUI_hjc087_jpg": {
+            "uri": "images/16_DJY_D2_BUI_hjc087.jpg"
+        },
+        "DJY_D2_BUI_hjc088_jpg": {
+            "uri": "images/18_DJY_D2_BUI_hjc088.jpg"
+        },
+        "DJY_D2_BUI_hjc089_jpg": {
+            "uri": "images/20_DJY_D2_BUI_hjc089.jpg"
+        },
+        "DJY_D2_BUI_hjc090_jpg": {
+            "uri": "images/22_DJY_D2_BUI_hjc090.jpg"
+        },
+        "DJY_D2_BUI_hjc091_jpg": {
+            "uri": "images/23_DJY_D2_BUI_hjc091.jpg"
+        },
+        "DJY_D2_BUI_hjc092_jpg": {
+            "uri": "images/25_DJY_D2_BUI_hjc092.jpg"
+        },
+        "DJY_D2_BUI_hjc093_jpg": {
+            "uri": "images/26_DJY_D2_BUI_hjc093.jpg"
+        },
+        "DJY_D2_BUI_hjc094_jpg": {
+            "uri": "images/51_DJY_D2_BUI_hjc094.jpg"
+        },
+        "DJY_D2_BUI_hjc095_jpg": {
+            "uri": "images/52_DJY_D2_BUI_hjc095.jpg"
+        },
+        "DJY_D2_BUI_hjc096_jpg": {
+            "uri": "images/49_DJY_D2_BUI_hjc096.jpg"
+        },
+        "DJY_D2_BUI_hjc097_jpg": {
+            "uri": "images/50_DJY_D2_BUI_hjc097.jpg"
+        },
+        "DJY_D2_BUI_hjc098_jpg": {
+            "uri": "images/54_DJY_D2_BUI_hjc098.jpg"
+        },
+        "DJY_D2_BUI_hjc099_jpg": {
+            "uri": "images/43_DJY_D2_BUI_hjc099.jpg"
+        },
+        "DJY_D2_BUI_hjc100_jpg": {
+            "uri": "images/45_DJY_D2_BUI_hjc100.jpg"
+        },
+        "DJY_D2_BUI_hjc101_jpg": {
+            "uri": "images/44_DJY_D2_BUI_hjc101.jpg"
+        },
+        "DJY_D2_BUI_hjc102_jpg": {
+            "uri": "images/48_DJY_D2_BUI_hjc102.jpg"
+        },
+        "DJY_D2_BUI_hjc103_jpg": {
+            "uri": "images/46_DJY_D2_BUI_hjc103.jpg"
+        },
+        "DJY_D2_BUI_hjc104_jpg": {
+            "uri": "images/47_DJY_D2_BUI_hjc104.jpg"
+        },
+        "DJY_D2_BUI_hjc106_jpg": {
+            "uri": "images/36_DJY_D2_BUI_hjc106.jpg"
+        },
+        "DJY_D2_BUI_hjc111_jpg": {
+            "uri": "images/39_DJY_D2_BUI_hjc111.jpg"
+        },
+        "DJY_D2_BUI_mxx14_jpg": {
+            "uri": "images/41_DJY_D2_BUI_mxx14.jpg"
+        },
+        "DJY_D2_BUI_mxx42_jpg": {
+            "uri": "images/40_DJY_D2_BUI_mxx42.jpg"
+        },
+        "DJY_D2_BUI_mxx44_jpg": {
+            "uri": "images/42_DJY_D2_BUI_mxx44.jpg"
+        },
+        "DJY_D2_BUI_mxx45_jpg": {
+            "uri": "images/38_DJY_D2_BUI_mxx45.jpg"
+        },
+        "DJY_D2_BUI_mxx47_jpg": {
+            "uri": "images/37_DJY_D2_BUI_mxx47.jpg"
+        }
+    },
+    "lights": {
+        "EnvironmentAmbientLight": {
+            "ambient": {
+                "color": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "type": "ambient"
+        }
+    },
+    "materials": {
+        "_erWangMiao_erwangmiao_asdMaterial__1170": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc019_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc019_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1170"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1171": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc018_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc018_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1171"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1228": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc020_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc020_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1228"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1231": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc082_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc082_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1231"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1268": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc084_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc084_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1268"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1270": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc085_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc085_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1270"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1272": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc086_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc086_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1272"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1274": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc087_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc087_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1274"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1276": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc088_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc088_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1276"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1278": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc089_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc089_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1278"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1324": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc090_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc090_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1324"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1326": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc017_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc017_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1326"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1328": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc092_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc092_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1328"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1355": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc093_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc093_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1355"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1357": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc055_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc055_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1357"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1386": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc002_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc002_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1386"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1387": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc015_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc015_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1387"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1388": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc037_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc037_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1388"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1566": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc036_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc036_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1566"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1567": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc094_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc094_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1567"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1579": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc095_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc095_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1579"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1581": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc039_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc039_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1581"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1583": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc096_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc096_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1583"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1585": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc020_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc020_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1585"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1587": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc002_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc002_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1587"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1589": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc015_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc015_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1589"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1593": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc055_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc055_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1593"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1595": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc097_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc097_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1595"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1599": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc098_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc098_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1599"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1601": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc018_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc018_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1601"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1663": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc111_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc111_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1663"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1665": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc103_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc103_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1665"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1677": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc104_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc104_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1677"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__1679": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc036_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc036_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__1679"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__504": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_mxx20_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_mxx20_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__504"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__55742": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx42_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx42_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__55742"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__55770": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx44_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx44_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__55770"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__55771": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx14_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx14_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__55771"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__55793": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx45_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx45_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__55793"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__55794": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc106_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc106_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__55794"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__558": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc015_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc015_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__558"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__55823": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx47_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx47_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__55823"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__560": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc002_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc002_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__560"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__562": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc068_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc068_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__562"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__564": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc077_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc077_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__564"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__578": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc078_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc078_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__578"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__579": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc079_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc079_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__579"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__580": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc080_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc080_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__580"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__581": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc036_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc036_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__581"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__582": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc008_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc008_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__582"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__58740": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc074_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc074_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__58740"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__58741": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc102_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc102_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__58741"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__58743": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc091_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc091_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__58743"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__619": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc015_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc015_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__619"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__620": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc070_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc070_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__620"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__622": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc071_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc071_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__622"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__624": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc072_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc072_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__624"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__626": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ24_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ24_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__626"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__674": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc075_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc075_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__674"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__676": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc076_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc076_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__676"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__678": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc099_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc099_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__678"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__679": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc100_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc100_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__679"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__691": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc101_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc101_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__691"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__708": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc083_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc083_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__708"
+        },
+        "_erWangMiao_erwangmiao_asdMaterial__710": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_hjc081_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_hjc081_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_erWangMiao_erwangmiao_asdMaterial__710"
+        }
+    },
+    "meshes": {
+        "geom-D2_7_001": {
+            "name": "D2_7_001",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1759",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1171",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1762",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1170",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1765",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1228",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1768",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__558",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1771",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__560",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1774",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__562",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1777",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__504",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1780",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__564",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1783",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__578",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1786",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__579",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1789",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__580",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1792",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1326",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1795",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__710",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1798",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1231",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1801",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__708",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1804",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1268",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1807",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1274",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1810",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1272",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1813",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1276",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1816",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1270",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1819",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1278",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1822",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__626",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1825",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1324",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1828",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__58743",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1831",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__58740",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1834",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1328",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1837",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1355",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1840",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1387",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1843",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1386",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1846",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1357",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1849",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1388",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1852",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__581",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1855",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__620",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1858",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__622",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1861",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__582",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1864",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__619",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1867",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__676",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1870",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__624",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1873",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__674",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1876",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__55794",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1879",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__55823",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1882",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__55793",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1885",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1663",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1888",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__55742",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1891",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__55771",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1894",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__55770",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1897",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__678",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1900",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__691",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1903",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__679",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1906",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1665",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1909",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1679",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1912",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1677",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1915",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__58741",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1918",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1583",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1921",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1595",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1924",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1567",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1927",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1566",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1930",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1579",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1933",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1587",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1936",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1581",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1939",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1585",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1942",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1589",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1945",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1593",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1948",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1599",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1955",
+                        "POSITION": "accessor_1953",
+                        "TEXBINORMAL": "accessor_1961",
+                        "TEXCOORD_0": "accessor_1957",
+                        "TEXTANGENT": "accessor_1959"
+                    },
+                    "indices": "accessor_1951",
+                    "material": "_erWangMiao_erwangmiao_asdMaterial__1601",
+                    "primitive": 4
+                }
+            ]
+        }
+    },
+    "nodes": {
+        "node-D2_7_001": {
+            "children": [],
+            "matrix": [
+                1,
+                0.00018367,
+                1.14499e-011,
+                0,
+                1.14499e-011,
+                -1.2468e-007,
+                1,
+                0,
+                0.00018367,
+                -1,
+                -1.2468e-007,
+                0,
+                -28.4793,
+                25.5932,
+                -4.98587,
+                1
+            ],
+            "meshes": [
+                "geom-D2_7_001"
+            ],
+            "name": "D2_7_001"
+        },
+        "node_0": {
+            "children": [],
+            "light": "EnvironmentAmbientLight",
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "name": "EnvironmentAmbientLight"
+        },
+        "node_2": {
+            "children": [
+                "node_0",
+                "node-D2_7_001"
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "name": "Y_UP_Transform"
+        }
+    },
+    "programs": {
+        "program_0": {
+            "attributes": [
+                "a_normal",
+                "a_position",
+                "a_texcoord0"
+            ],
+            "fragmentShader": "erWangMiao20FS",
+            "vertexShader": "erWangMiao20VS"
+        }
+    },
+    "samplers": {
+        "sampler_0": {
+            "magFilter": 9729,
+            "minFilter": 9729,
+            "wrapS": 10497,
+            "wrapT": 10497
+        }
+    },
+    "scene": "defaultScene",
+    "scenes": {
+        "defaultScene": {
+            "nodes": [
+                "node_2"
+            ]
+        }
+    },
+    "shaders": {
+        "erWangMiao20FS": {
+            "type": 35632,
+            "uri": "erWangMiao20FS.glsl"
+        },
+        "erWangMiao20VS": {
+            "type": 35633,
+            "uri": "erWangMiao20VS.glsl"
+        }
+    },
+    "skins": {},
+    "techniques": {
+        "technique0": {
+            "parameters": {
+                "ambient": {
+                    "type": 35678
+                },
+                "diffuse": {
+                    "type": 35678
+                },
+                "emission": {
+                    "type": 35666
+                },
+                "modelViewMatrix": {
+                    "semantic": "MODELVIEW",
+                    "type": 35676
+                },
+                "normal": {
+                    "semantic": "NORMAL",
+                    "type": 35665
+                },
+                "normalMatrix": {
+                    "semantic": "MODELVIEWINVERSETRANSPOSE",
+                    "type": 35675
+                },
+                "position": {
+                    "semantic": "POSITION",
+                    "type": 35665
+                },
+                "projectionMatrix": {
+                    "semantic": "PROJECTION",
+                    "type": 35676
+                },
+                "shininess": {
+                    "type": 5126
+                },
+                "specular": {
+                    "type": 35666
+                },
+                "texcoord0": {
+                    "semantic": "TEXCOORD_0",
+                    "type": 35664
+                }
+            },
+            "pass": "defaultPass",
+            "passes": {
+                "defaultPass": {
+                    "details": {
+                        "commonProfile": {
+                            "extras": {
+                                "doubleSided": false
+                            },
+                            "lightingModel": "Blinn",
+                            "parameters": [
+                                "ambient",
+                                "diffuse",
+                                "emission",
+                                "modelViewMatrix",
+                                "normalMatrix",
+                                "projectionMatrix",
+                                "shininess",
+                                "specular"
+                            ],
+                            "texcoordBindings": {
+                                "ambient": "TEXCOORD_0",
+                                "diffuse": "TEXCOORD_0"
+                            }
+                        },
+                        "type": "COLLADA-1.4.1/commonProfile"
+                    },
+                    "instanceProgram": {
+                        "attributes": {
+                            "a_normal": "normal",
+                            "a_position": "position",
+                            "a_texcoord0": "texcoord0"
+                        },
+                        "program": "program_0",
+                        "uniforms": {
+                            "u_ambient": "ambient",
+                            "u_diffuse": "diffuse",
+                            "u_emission": "emission",
+                            "u_modelViewMatrix": "modelViewMatrix",
+                            "u_normalMatrix": "normalMatrix",
+                            "u_projectionMatrix": "projectionMatrix",
+                            "u_shininess": "shininess",
+                            "u_specular": "specular"
+                        }
+                    },
+                    "states": {
+                        "enable": [
+                            2884,
+                            2929
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "textures": {
+        "texture_DJY_D1_BUI_TJ24_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ24_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_mxx20_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_mxx20_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc002_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc002_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc008_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc008_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc015_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc015_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc017_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc017_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc018_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc018_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc019_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc019_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc020_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc020_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc036_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc036_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc037_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc037_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc039_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc039_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc055_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc055_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc068_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc068_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc070_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc070_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc071_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc071_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc072_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc072_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc074_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc074_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc075_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc075_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc076_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc076_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc077_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc077_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc078_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc078_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc079_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc079_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc080_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc080_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc081_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc081_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc082_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc082_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc083_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc083_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc084_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc084_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc085_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc085_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc086_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc086_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc087_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc087_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc088_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc088_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc089_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc089_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc090_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc090_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc091_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc091_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc092_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc092_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc093_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc093_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc094_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc094_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc095_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc095_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc096_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc096_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc097_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc097_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc098_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc098_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc099_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc099_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc100_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc100_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc101_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc101_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc102_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc102_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc103_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc103_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc104_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc104_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc106_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc106_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_hjc111_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_hjc111_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx14_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx14_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx42_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx42_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx44_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx44_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx45_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx45_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx47_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx47_jpg",
+            "target": 3553,
+            "type": 5121
+        }
+    }
+}

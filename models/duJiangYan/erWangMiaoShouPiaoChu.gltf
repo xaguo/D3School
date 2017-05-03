@@ -1,0 +1,4134 @@
+{
+    "accessors": {
+        "accessor_2056": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 1116,
+            "type": "SCALAR"
+        },
+        "accessor_2059": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 2232,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_2062": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 2244,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 60,
+            "type": "SCALAR"
+        },
+        "accessor_2065": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 2364,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_2068": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 2376,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 15,
+            "type": "SCALAR"
+        },
+        "accessor_2071": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 2406,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 150,
+            "type": "SCALAR"
+        },
+        "accessor_2074": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 2706,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 228,
+            "type": "SCALAR"
+        },
+        "accessor_2077": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 3162,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 30,
+            "type": "SCALAR"
+        },
+        "accessor_2080": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 3222,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+        },
+        "accessor_2083": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 3294,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 96,
+            "type": "SCALAR"
+        },
+        "accessor_2086": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 3486,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 72,
+            "type": "SCALAR"
+        },
+        "accessor_2089": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 3630,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 78,
+            "type": "SCALAR"
+        },
+        "accessor_2092": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 3786,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 132,
+            "type": "SCALAR"
+        },
+        "accessor_2095": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 4050,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 12,
+            "type": "SCALAR"
+        },
+        "accessor_2098": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 4074,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 108,
+            "type": "SCALAR"
+        },
+        "accessor_2101": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 4290,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 162,
+            "type": "SCALAR"
+        },
+        "accessor_2104": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 4614,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 12,
+            "type": "SCALAR"
+        },
+        "accessor_2107": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 4638,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 327,
+            "type": "SCALAR"
+        },
+        "accessor_2110": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 5292,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 33,
+            "type": "SCALAR"
+        },
+        "accessor_2113": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 5358,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 12,
+            "type": "SCALAR"
+        },
+        "accessor_2116": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 5382,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_2119": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 5394,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 516,
+            "type": "SCALAR"
+        },
+        "accessor_2122": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 6426,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_2125": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 6438,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 9,
+            "type": "SCALAR"
+        },
+        "accessor_2128": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 6456,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_2131": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 6468,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6399,
+            "type": "SCALAR"
+        },
+        "accessor_2134": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 19266,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6675,
+            "type": "SCALAR"
+        },
+        "accessor_2137": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 32616,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 72,
+            "type": "SCALAR"
+        },
+        "accessor_2140": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 32760,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 144,
+            "type": "SCALAR"
+        },
+        "accessor_2143": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 33048,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+        },
+        "accessor_2146": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 33120,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 432,
+            "type": "SCALAR"
+        },
+        "accessor_2149": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 33984,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 30,
+            "type": "SCALAR"
+        },
+        "accessor_2152": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 34044,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_2155": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 34056,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 156,
+            "type": "SCALAR"
+        },
+        "accessor_2158": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 34368,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_2161": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 34380,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 24,
+            "type": "SCALAR"
+        },
+        "accessor_2164": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 34428,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_2167": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 34440,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 84,
+            "type": "SCALAR"
+        },
+        "accessor_2170": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 34608,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 30,
+            "type": "SCALAR"
+        },
+        "accessor_2173": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 34668,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+        },
+        "accessor_2176": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 34740,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 30,
+            "type": "SCALAR"
+        },
+        "accessor_2179": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 34800,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_2182": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 34812,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 162,
+            "type": "SCALAR"
+        },
+        "accessor_2185": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 35136,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_2188": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 35148,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 24,
+            "type": "SCALAR"
+        },
+        "accessor_2191": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 35196,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 24,
+            "type": "SCALAR"
+        },
+        "accessor_2194": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 35244,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 12,
+            "type": "SCALAR"
+        },
+        "accessor_2197": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 35268,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_2200": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 35280,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_2203": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 35292,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 60,
+            "type": "SCALAR"
+        },
+        "accessor_2206": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 35412,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_2209": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 35424,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 12,
+            "type": "SCALAR"
+        },
+        "accessor_2212": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 35448,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 36,
+            "type": "SCALAR"
+        },
+        "accessor_2215": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 35520,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 501,
+            "type": "SCALAR"
+        },
+        "accessor_2218": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 36522,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 1371,
+            "type": "SCALAR"
+        },
+        "accessor_2221": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 39264,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 288,
+            "type": "SCALAR"
+        },
+        "accessor_2224": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 39840,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 96,
+            "type": "SCALAR"
+        },
+        "accessor_2227": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 40032,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 1164,
+            "type": "SCALAR"
+        },
+        "accessor_2230": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 42360,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 516,
+            "type": "SCALAR"
+        },
+        "accessor_2233": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 43392,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 60,
+            "type": "SCALAR"
+        },
+        "accessor_2236": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 43512,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 72,
+            "type": "SCALAR"
+        },
+        "accessor_2239": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 43656,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 5184,
+            "type": "SCALAR"
+        },
+        "accessor_2242": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 54024,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 2400,
+            "type": "SCALAR"
+        },
+        "accessor_2245": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 58824,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 768,
+            "type": "SCALAR"
+        },
+        "accessor_2248": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 60360,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 1296,
+            "type": "SCALAR"
+        },
+        "accessor_2251": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 62952,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 168,
+            "type": "SCALAR"
+        },
+        "accessor_2254": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 63288,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_2257": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 63300,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 9,
+            "type": "SCALAR"
+        },
+        "accessor_2260": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 63318,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 12,
+            "type": "SCALAR"
+        },
+        "accessor_2263": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 63342,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 96,
+            "type": "SCALAR"
+        },
+        "accessor_2266": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 63534,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 1056,
+            "type": "SCALAR"
+        },
+        "accessor_2269": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 65646,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 132,
+            "type": "SCALAR"
+        },
+        "accessor_2272": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 65910,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 432,
+            "type": "SCALAR"
+        },
+        "accessor_2275": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 66774,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 132,
+            "type": "SCALAR"
+        },
+        "accessor_2278": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 67038,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 15,
+            "type": "SCALAR"
+        },
+        "accessor_2281": {
+            "bufferView": "bufferView_2293",
+            "byteOffset": 67068,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 12,
+            "type": "SCALAR"
+        },
+        "accessor_2283": {
+            "bufferView": "bufferView_2294",
+            "byteOffset": 0,
+            "byteStride": 12,
+            "componentType": 5126,
+            "count": 15801,
+            "max": [
+                16.7941,
+                17.5043,
+                3.22551
+            ],
+            "min": [
+                -16.7941,
+                -17.5044,
+                -3.22549
+            ],
+            "type": "VEC3"
+        },
+        "accessor_2285": {
+            "bufferView": "bufferView_2294",
+            "byteOffset": 189612,
+            "byteStride": 12,
+            "componentType": 5126,
+            "count": 15801,
+            "max": [
+                1,
+                0.9998,
+                1
+            ],
+            "min": [
+                -1,
+                -0.9999,
+                -1
+            ],
+            "type": "VEC3"
+        },
+        "accessor_2287": {
+            "bufferView": "bufferView_2294",
+            "byteOffset": 379224,
+            "byteStride": 8,
+            "componentType": 5126,
+            "count": 15801,
+            "max": [
+                30.8246,
+                7.35911e+006
+            ],
+            "min": [
+                -76.979,
+                -1.82257e+007
+            ],
+            "type": "VEC2"
+        },
+        "accessor_2289": {
+            "bufferView": "bufferView_2294",
+            "byteOffset": 505632,
+            "byteStride": 12,
+            "componentType": 5126,
+            "count": 15801,
+            "max": [
+                0.999984,
+                0.999083,
+                1
+            ],
+            "min": [
+                -0.999967,
+                -0.998971,
+                -1
+            ],
+            "type": "VEC3"
+        },
+        "accessor_2291": {
+            "bufferView": "bufferView_2294",
+            "byteOffset": 695244,
+            "byteStride": 12,
+            "componentType": 5126,
+            "count": 15801,
+            "max": [
+                0.999954,
+                0.998703,
+                1
+            ],
+            "min": [
+                -0.999178,
+                -0.998999,
+                -1
+            ],
+            "type": "VEC3"
+        }
+    },
+    "animations": {},
+    "asset": {
+        "generator": "collada2gltf@abb81d52ce290268fdb67b96f5bc5c620dee5bb5",
+        "premultipliedAlpha": true,
+        "profile": "WebGL 1.0.2",
+        "version": 0.8
+    },
+    "bufferViews": {
+        "bufferView_2293": {
+            "buffer": "erWangMiaoShouPiaoChu",
+            "byteLength": 67092,
+            "byteOffset": 0,
+            "target": 34963
+        },
+        "bufferView_2294": {
+            "buffer": "erWangMiaoShouPiaoChu",
+            "byteLength": 884856,
+            "byteOffset": 67092,
+            "target": 34962
+        }
+    },
+    "buffers": {
+        "erWangMiaoShouPiaoChu": {
+            "byteLength": 951948,
+            "type": "arraybuffer",
+            "uri": "erWangMiaoShouPiaoChu.bin"
+        }
+    },
+    "images": {
+        "DJY_D1_BUI_mxx19_jpg": {
+            "uri": "images/0_DJY_D1_BUI_mxx19.jpg"
+        },
+        "DJY_D2_BUI_mxx15_jpg": {
+            "uri": "images/15_DJY_D2_BUI_mxx15.jpg"
+        },
+        "DJY_D2_BUI_mxx38_jpg": {
+            "uri": "images/6_DJY_D2_BUI_mxx38.jpg"
+        },
+        "DJY_D2_BUI_mxx40_jpg": {
+            "uri": "images/25_DJY_D2_BUI_mxx40.jpg"
+        },
+        "DJY_D2_BUI_mxx41_jpg": {
+            "uri": "images/26_DJY_D2_BUI_mxx41.jpg"
+        },
+        "DJY_D2_BUI_mxx43_jpg": {
+            "uri": "images/8_DJY_D2_BUI_mxx43.jpg"
+        },
+        "DJY_D2_BUI_mxx48_jpg": {
+            "uri": "images/20_DJY_D2_BUI_mxx48.jpg"
+        },
+        "DJY_D2_BUI_mxx56_jpg": {
+            "uri": "images/3_DJY_D2_BUI_mxx56.jpg"
+        },
+        "DJY_D2_BUI_mxx57_jpg": {
+            "uri": "images/12_DJY_D2_BUI_mxx57.jpg"
+        },
+        "DJY_D2_BUI_mxx58_jpg": {
+            "uri": "images/1_DJY_D2_BUI_mxx58.jpg"
+        },
+        "DJY_D2_BUI_mxx59_jpg": {
+            "uri": "images/11_DJY_D2_BUI_mxx59.jpg"
+        },
+        "DJY_D2_BUI_mxx60_jpg": {
+            "uri": "images/13_DJY_D2_BUI_mxx60.jpg"
+        },
+        "DJY_D2_BUI_mxx61_jpg": {
+            "uri": "images/14_DJY_D2_BUI_mxx61.jpg"
+        },
+        "DJY_D2_BUI_mxx62_jpg": {
+            "uri": "images/10_DJY_D2_BUI_mxx62.jpg"
+        },
+        "DJY_D2_BUI_mxx63_jpg": {
+            "uri": "images/4_DJY_D2_BUI_mxx63.jpg"
+        },
+        "DJY_D2_BUI_mxx64_jpg": {
+            "uri": "images/34_DJY_D2_BUI_mxx64.jpg"
+        },
+        "DJY_D2_BUI_mxx65_jpg": {
+            "uri": "images/7_DJY_D2_BUI_mxx65.jpg"
+        },
+        "DJY_D2_BUI_mxx66_jpg": {
+            "uri": "images/9_DJY_D2_BUI_mxx66.jpg"
+        },
+        "DJY_D2_BUI_mxx67_jpg": {
+            "uri": "images/2_DJY_D2_BUI_mxx67.jpg"
+        },
+        "DJY_D2_BUI_mxx68_jpg": {
+            "uri": "images/21_DJY_D2_BUI_mxx68.jpg"
+        },
+        "DJY_D2_BUI_mxx69_jpg": {
+            "uri": "images/24_DJY_D2_BUI_mxx69.jpg"
+        },
+        "DJY_D2_BUI_mxx70_jpg": {
+            "uri": "images/18_DJY_D2_BUI_mxx70.jpg"
+        },
+        "DJY_D2_BUI_mxx71_jpg": {
+            "uri": "images/27_DJY_D2_BUI_mxx71.jpg"
+        },
+        "DJY_D2_BUI_mxx72_jpg": {
+            "uri": "images/28_DJY_D2_BUI_mxx72.jpg"
+        },
+        "DJY_D2_BUI_mxx73_jpg": {
+            "uri": "images/23_DJY_D2_BUI_mxx73.jpg"
+        },
+        "DJY_D2_BUI_mxx74_jpg": {
+            "uri": "images/22_DJY_D2_BUI_mxx74.jpg"
+        },
+        "DJY_D2_BUI_mxx75_jpg": {
+            "uri": "images/29_DJY_D2_BUI_mxx75.jpg"
+        },
+        "DJY_D2_BUI_mxx76_jpg": {
+            "uri": "images/30_DJY_D2_BUI_mxx76.jpg"
+        },
+        "DJY_D2_BUI_mxx82_jpg": {
+            "uri": "images/5_DJY_D2_BUI_mxx82.jpg"
+        },
+        "DJY_D2_BUI_mxx83_jpg": {
+            "uri": "images/17_DJY_D2_BUI_mxx83.jpg"
+        },
+        "DJY_D2_BUI_mxx84_jpg": {
+            "uri": "images/19_DJY_D2_BUI_mxx84.jpg"
+        },
+        "DJY_D2_BUI_mxx85_jpg": {
+            "uri": "images/32_DJY_D2_BUI_mxx85.jpg"
+        },
+        "DJY_D2_BUI_mxx86_jpg": {
+            "uri": "images/31_DJY_D2_BUI_mxx86.jpg"
+        },
+        "DJY_D2_BUI_mxx87_jpg": {
+            "uri": "images/33_DJY_D2_BUI_mxx87.jpg"
+        },
+        "DJY_D2_BUI_mxx9_jpg": {
+            "uri": "images/16_DJY_D2_BUI_mxx9.jpg"
+        }
+    },
+    "lights": {
+        "EnvironmentAmbientLight": {
+            "ambient": {
+                "color": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "type": "ambient"
+        }
+    },
+    "materials": {
+        "_____________Material__56029": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_mxx19_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_mxx19_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56029"
+        },
+        "_____________Material__56041": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx38_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx38_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56041"
+        },
+        "_____________Material__56042": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_mxx19_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_mxx19_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56042"
+        },
+        "_____________Material__56043": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx38_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx38_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56043"
+        },
+        "_____________Material__56055": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx38_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx38_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56055"
+        },
+        "_____________Material__56057": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx38_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx38_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56057"
+        },
+        "_____________Material__56060": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx65_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx65_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56060"
+        },
+        "_____________Material__56062": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx65_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx65_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56062"
+        },
+        "_____________Material__56063": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx9_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx9_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56063"
+        },
+        "_____________Material__56064": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx15_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx15_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56064"
+        },
+        "_____________Material__56076": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx69_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx69_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56076"
+        },
+        "_____________Material__56077": {
+            "instanceTechnique": {
+                "technique": "technique1",
+                "values": {
+                    "ambient": [
+                        0.588,
+                        0.588,
+                        0.588,
+                        1
+                    ],
+                    "diffuse": [
+                        0.588,
+                        0.588,
+                        0.588,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56077"
+        },
+        "_____________Material__56078": {
+            "instanceTechnique": {
+                "technique": "technique1",
+                "values": {
+                    "ambient": [
+                        0.588,
+                        0.588,
+                        0.588,
+                        1
+                    ],
+                    "diffuse": [
+                        0.588,
+                        0.588,
+                        0.588,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56078"
+        },
+        "_____________Material__56079": {
+            "instanceTechnique": {
+                "technique": "technique1",
+                "values": {
+                    "ambient": [
+                        0.588,
+                        0.588,
+                        0.588,
+                        1
+                    ],
+                    "diffuse": [
+                        0.588,
+                        0.588,
+                        0.588,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56079"
+        },
+        "_____________Material__56080": {
+            "instanceTechnique": {
+                "technique": "technique1",
+                "values": {
+                    "ambient": [
+                        0.588,
+                        0.588,
+                        0.588,
+                        1
+                    ],
+                    "diffuse": [
+                        0.588,
+                        0.588,
+                        0.588,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56080"
+        },
+        "_____________Material__56092": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx69_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx69_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56092"
+        },
+        "_____________Material__56093": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx73_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx73_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56093"
+        },
+        "_____________Material__56095": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx67_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx67_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56095"
+        },
+        "_____________Material__56097": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx67_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx67_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56097"
+        },
+        "_____________Material__56099": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx68_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx68_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56099"
+        },
+        "_____________Material__56101": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx74_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx74_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56101"
+        },
+        "_____________Material__56103": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx43_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx43_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56103"
+        },
+        "_____________Material__56105": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx40_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx40_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56105"
+        },
+        "_____________Material__56107": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx43_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx43_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56107"
+        },
+        "_____________Material__56109": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx71_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx71_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56109"
+        },
+        "_____________Material__56122": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx67_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx67_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56122"
+        },
+        "_____________Material__56124": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx75_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx75_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56124"
+        },
+        "_____________Material__56136": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx83_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx83_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56136"
+        },
+        "_____________Material__56148": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx43_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx43_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56148"
+        },
+        "_____________Material__56149": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx84_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx84_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56149"
+        },
+        "_____________Material__56151": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx84_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx84_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56151"
+        },
+        "_____________Material__56153": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx43_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx43_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56153"
+        },
+        "_____________Material__56155": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx67_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx67_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56155"
+        },
+        "_____________Material__56157": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx48_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx48_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56157"
+        },
+        "_____________Material__56159": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx67_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx67_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56159"
+        },
+        "_____________Material__56161": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx67_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx67_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56161"
+        },
+        "_____________Material__56162": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx48_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx48_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56162"
+        },
+        "_____________Material__56163": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx48_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx48_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56163"
+        },
+        "_____________Material__56164": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx41_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx41_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56164"
+        },
+        "_____________Material__56240": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx70_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx70_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56240"
+        },
+        "_____________Material__56241": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_mxx19_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_mxx19_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56241"
+        },
+        "_____________Material__56242": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx43_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx43_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56242"
+        },
+        "_____________Material__56254": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_mxx19_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_mxx19_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56254"
+        },
+        "_____________Material__56256": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx38_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx38_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56256"
+        },
+        "_____________Material__56257": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx38_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx38_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56257"
+        },
+        "_____________Material__56258": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx56_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx56_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56258"
+        },
+        "_____________Material__56259": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx66_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx66_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56259"
+        },
+        "_____________Material__56260": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx65_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx65_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56260"
+        },
+        "_____________Material__56261": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx58_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx58_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56261"
+        },
+        "_____________Material__56262": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx58_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx58_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56262"
+        },
+        "_____________Material__56264": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx58_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx58_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56264"
+        },
+        "_____________Material__56268": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx59_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx59_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56268"
+        },
+        "_____________Material__56270": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx60_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx60_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56270"
+        },
+        "_____________Material__56272": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx61_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx61_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56272"
+        },
+        "_____________Material__56279": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx63_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx63_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56279"
+        },
+        "_____________Material__56280": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx62_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx62_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56280"
+        },
+        "_____________Material__56281": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx57_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx57_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56281"
+        },
+        "_____________Material__56283": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx56_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx56_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56283"
+        },
+        "_____________Material__56285": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx56_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx56_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56285"
+        },
+        "_____________Material__56289": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_mxx19_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_mxx19_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56289"
+        },
+        "_____________Material__56290": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx67_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx67_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56290"
+        },
+        "_____________Material__56514": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx56_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx56_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56514"
+        },
+        "_____________Material__56548": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx56_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx56_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56548"
+        },
+        "_____________Material__56549": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx66_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx66_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56549"
+        },
+        "_____________Material__56550": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx65_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx65_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56550"
+        },
+        "_____________Material__56584": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx65_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx65_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56584"
+        },
+        "_____________Material__56586": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx65_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx65_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56586"
+        },
+        "_____________Material__56588": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx65_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx65_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56588"
+        },
+        "_____________Material__56664": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx65_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx65_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56664"
+        },
+        "_____________Material__56730": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx64_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx64_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56730"
+        },
+        "_____________Material__56731": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_mxx19_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_mxx19_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56731"
+        },
+        "_____________Material__56745": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx85_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx85_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56745"
+        },
+        "_____________Material__56758": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx86_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx86_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56758"
+        },
+        "_____________Material__56760": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx48_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx48_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56760"
+        },
+        "_____________Material__56761": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx87_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx87_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__56761"
+        },
+        "_____________Material__61772": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D2_BUI_mxx82_jpg",
+                    "diffuse": "texture_DJY_D2_BUI_mxx82_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_____________Material__61772"
+        }
+    },
+    "meshes": {
+        "geom-erWangMiaoShouPiaoChu": {
+            "name": "erWangMiaoShouPiaoChu",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2056",
+                    "material": "_____________Material__56254",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2059",
+                    "material": "_____________Material__56262",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2062",
+                    "material": "_____________Material__56290",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2065",
+                    "material": "_____________Material__56285",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2068",
+                    "material": "_____________Material__56283",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2071",
+                    "material": "_____________Material__56261",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2074",
+                    "material": "_____________Material__56258",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2077",
+                    "material": "_____________Material__56279",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2080",
+                    "material": "_____________Material__61772",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2083",
+                    "material": "_____________Material__56256",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2086",
+                    "material": "_____________Material__56257",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2089",
+                    "material": "_____________Material__56584",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2092",
+                    "material": "_____________Material__56588",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2095",
+                    "material": "_____________Material__56731",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2098",
+                    "material": "_____________Material__56586",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2101",
+                    "material": "_____________Material__56242",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2104",
+                    "material": "_____________Material__56289",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2107",
+                    "material": "_____________Material__56259",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2110",
+                    "material": "_____________Material__56280",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2113",
+                    "material": "_____________Material__56268",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2116",
+                    "material": "_____________Material__56264",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2119",
+                    "material": "_____________Material__56260",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2122",
+                    "material": "_____________Material__56281",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2125",
+                    "material": "_____________Material__56270",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2128",
+                    "material": "_____________Material__56272",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2131",
+                    "material": "_____________Material__56064",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2134",
+                    "material": "_____________Material__56063",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2137",
+                    "material": "_____________Material__56136",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2140",
+                    "material": "_____________Material__56148",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2143",
+                    "material": "_____________Material__56240",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2146",
+                    "material": "_____________Material__56241",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2149",
+                    "material": "_____________Material__56079",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2152",
+                    "material": "_____________Material__56159",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2155",
+                    "material": "_____________Material__56153",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2158",
+                    "material": "_____________Material__56161",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2161",
+                    "material": "_____________Material__56151",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2164",
+                    "material": "_____________Material__56155",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2167",
+                    "material": "_____________Material__56157",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2170",
+                    "material": "_____________Material__56078",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2173",
+                    "material": "_____________Material__56077",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2176",
+                    "material": "_____________Material__56080",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2179",
+                    "material": "_____________Material__56099",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2182",
+                    "material": "_____________Material__56103",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2185",
+                    "material": "_____________Material__56122",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2188",
+                    "material": "_____________Material__56149",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2191",
+                    "material": "_____________Material__56107",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2194",
+                    "material": "_____________Material__56101",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2197",
+                    "material": "_____________Material__56093",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2200",
+                    "material": "_____________Material__56076",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2203",
+                    "material": "_____________Material__56105",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2206",
+                    "material": "_____________Material__56095",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2209",
+                    "material": "_____________Material__56097",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2212",
+                    "material": "_____________Material__56092",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2215",
+                    "material": "_____________Material__56041",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2218",
+                    "material": "_____________Material__56029",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2221",
+                    "material": "_____________Material__56062",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2224",
+                    "material": "_____________Material__56162",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2227",
+                    "material": "_____________Material__56164",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2230",
+                    "material": "_____________Material__56163",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2233",
+                    "material": "_____________Material__56109",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2236",
+                    "material": "_____________Material__56124",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2239",
+                    "material": "_____________Material__56758",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2242",
+                    "material": "_____________Material__56760",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2245",
+                    "material": "_____________Material__56745",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2248",
+                    "material": "_____________Material__56761",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2251",
+                    "material": "_____________Material__56550",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2254",
+                    "material": "_____________Material__56549",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2257",
+                    "material": "_____________Material__56548",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2260",
+                    "material": "_____________Material__56514",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2263",
+                    "material": "_____________Material__56057",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2266",
+                    "material": "_____________Material__56042",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2269",
+                    "material": "_____________Material__56055",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2272",
+                    "material": "_____________Material__56060",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2275",
+                    "material": "_____________Material__56043",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2278",
+                    "material": "_____________Material__56730",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_2285",
+                        "POSITION": "accessor_2283",
+                        "TEXBINORMAL": "accessor_2291",
+                        "TEXCOORD_0": "accessor_2287",
+                        "TEXTANGENT": "accessor_2289"
+                    },
+                    "indices": "accessor_2281",
+                    "material": "_____________Material__56664",
+                    "primitive": 4
+                }
+            ]
+        }
+    },
+    "nodes": {
+        "node-erWangMiaoShouPiaoChu": {
+            "children": [],
+            "matrix": [
+                1,
+                -0.000904648,
+                8.74227e-008,
+                0,
+                -0.000904648,
+                -1,
+                -1.29337e-010,
+                0,
+                8.74228e-008,
+                5.02497e-011,
+                -1,
+                0,
+                -0.00743037,
+                -0.000387728,
+                -3.26207,
+                1
+            ],
+            "meshes": [
+                "geom-erWangMiaoShouPiaoChu"
+            ],
+            "name": "erWangMiaoShouPiaoChu"
+        },
+        "node_0": {
+            "children": [],
+            "light": "EnvironmentAmbientLight",
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "name": "EnvironmentAmbientLight"
+        },
+        "node_2": {
+            "children": [
+                "node_0",
+                "node-erWangMiaoShouPiaoChu"
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "name": "Y_UP_Transform"
+        }
+    },
+    "programs": {
+        "program_0": {
+            "attributes": [
+                "a_normal",
+                "a_position",
+                "a_texcoord0"
+            ],
+            "fragmentShader": "erWangMiaoShouPiaoChu0FS",
+            "vertexShader": "erWangMiaoShouPiaoChu0VS"
+        },
+        "program_1": {
+            "attributes": [
+                "a_normal",
+                "a_position"
+            ],
+            "fragmentShader": "erWangMiaoShouPiaoChu1FS",
+            "vertexShader": "erWangMiaoShouPiaoChu1VS"
+        }
+    },
+    "samplers": {
+        "sampler_0": {
+            "magFilter": 9729,
+            "minFilter": 9729,
+            "wrapS": 10497,
+            "wrapT": 10497
+        }
+    },
+    "scene": "defaultScene",
+    "scenes": {
+        "defaultScene": {
+            "nodes": [
+                "node_2"
+            ]
+        }
+    },
+    "shaders": {
+        "erWangMiaoShouPiaoChu0FS": {
+            "type": 35632,
+            "uri": "erWangMiaoShouPiaoChu0FS.glsl"
+        },
+        "erWangMiaoShouPiaoChu0VS": {
+            "type": 35633,
+            "uri": "erWangMiaoShouPiaoChu0VS.glsl"
+        },
+        "erWangMiaoShouPiaoChu1FS": {
+            "type": 35632,
+            "uri": "erWangMiaoShouPiaoChu1FS.glsl"
+        },
+        "erWangMiaoShouPiaoChu1VS": {
+            "type": 35633,
+            "uri": "erWangMiaoShouPiaoChu1VS.glsl"
+        }
+    },
+    "skins": {},
+    "techniques": {
+        "technique0": {
+            "parameters": {
+                "ambient": {
+                    "type": 35678
+                },
+                "diffuse": {
+                    "type": 35678
+                },
+                "emission": {
+                    "type": 35666
+                },
+                "modelViewMatrix": {
+                    "semantic": "MODELVIEW",
+                    "type": 35676
+                },
+                "normal": {
+                    "semantic": "NORMAL",
+                    "type": 35665
+                },
+                "normalMatrix": {
+                    "semantic": "MODELVIEWINVERSETRANSPOSE",
+                    "type": 35675
+                },
+                "position": {
+                    "semantic": "POSITION",
+                    "type": 35665
+                },
+                "projectionMatrix": {
+                    "semantic": "PROJECTION",
+                    "type": 35676
+                },
+                "shininess": {
+                    "type": 5126
+                },
+                "specular": {
+                    "type": 35666
+                },
+                "texcoord0": {
+                    "semantic": "TEXCOORD_0",
+                    "type": 35664
+                }
+            },
+            "pass": "defaultPass",
+            "passes": {
+                "defaultPass": {
+                    "details": {
+                        "commonProfile": {
+                            "extras": {
+                                "doubleSided": false
+                            },
+                            "lightingModel": "Blinn",
+                            "parameters": [
+                                "ambient",
+                                "diffuse",
+                                "emission",
+                                "modelViewMatrix",
+                                "normalMatrix",
+                                "projectionMatrix",
+                                "shininess",
+                                "specular"
+                            ],
+                            "texcoordBindings": {
+                                "ambient": "TEXCOORD_0",
+                                "diffuse": "TEXCOORD_0"
+                            }
+                        },
+                        "type": "COLLADA-1.4.1/commonProfile"
+                    },
+                    "instanceProgram": {
+                        "attributes": {
+                            "a_normal": "normal",
+                            "a_position": "position",
+                            "a_texcoord0": "texcoord0"
+                        },
+                        "program": "program_0",
+                        "uniforms": {
+                            "u_ambient": "ambient",
+                            "u_diffuse": "diffuse",
+                            "u_emission": "emission",
+                            "u_modelViewMatrix": "modelViewMatrix",
+                            "u_normalMatrix": "normalMatrix",
+                            "u_projectionMatrix": "projectionMatrix",
+                            "u_shininess": "shininess",
+                            "u_specular": "specular"
+                        }
+                    },
+                    "states": {
+                        "enable": [
+                            2884,
+                            2929
+                        ]
+                    }
+                }
+            }
+        },
+        "technique1": {
+            "parameters": {
+                "ambient": {
+                    "type": 35666
+                },
+                "diffuse": {
+                    "type": 35666
+                },
+                "emission": {
+                    "type": 35666
+                },
+                "modelViewMatrix": {
+                    "semantic": "MODELVIEW",
+                    "type": 35676
+                },
+                "normal": {
+                    "semantic": "NORMAL",
+                    "type": 35665
+                },
+                "normalMatrix": {
+                    "semantic": "MODELVIEWINVERSETRANSPOSE",
+                    "type": 35675
+                },
+                "position": {
+                    "semantic": "POSITION",
+                    "type": 35665
+                },
+                "projectionMatrix": {
+                    "semantic": "PROJECTION",
+                    "type": 35676
+                },
+                "shininess": {
+                    "type": 5126
+                },
+                "specular": {
+                    "type": 35666
+                }
+            },
+            "pass": "defaultPass",
+            "passes": {
+                "defaultPass": {
+                    "details": {
+                        "commonProfile": {
+                            "extras": {
+                                "doubleSided": false
+                            },
+                            "lightingModel": "Blinn",
+                            "parameters": [
+                                "ambient",
+                                "diffuse",
+                                "emission",
+                                "modelViewMatrix",
+                                "normalMatrix",
+                                "projectionMatrix",
+                                "shininess",
+                                "specular"
+                            ]
+                        },
+                        "type": "COLLADA-1.4.1/commonProfile"
+                    },
+                    "instanceProgram": {
+                        "attributes": {
+                            "a_normal": "normal",
+                            "a_position": "position"
+                        },
+                        "program": "program_1",
+                        "uniforms": {
+                            "u_ambient": "ambient",
+                            "u_diffuse": "diffuse",
+                            "u_emission": "emission",
+                            "u_modelViewMatrix": "modelViewMatrix",
+                            "u_normalMatrix": "normalMatrix",
+                            "u_projectionMatrix": "projectionMatrix",
+                            "u_shininess": "shininess",
+                            "u_specular": "specular"
+                        }
+                    },
+                    "states": {
+                        "enable": [
+                            2884,
+                            2929
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "textures": {
+        "texture_DJY_D1_BUI_mxx19_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_mxx19_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx15_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx15_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx38_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx38_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx40_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx40_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx41_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx41_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx43_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx43_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx48_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx48_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx56_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx56_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx57_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx57_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx58_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx58_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx59_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx59_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx60_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx60_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx61_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx61_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx62_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx62_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx63_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx63_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx64_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx64_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx65_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx65_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx66_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx66_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx67_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx67_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx68_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx68_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx69_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx69_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx70_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx70_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx71_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx71_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx73_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx73_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx74_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx74_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx75_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx75_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx82_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx82_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx83_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx83_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx84_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx84_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx85_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx85_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx86_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx86_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx87_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx87_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D2_BUI_mxx9_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D2_BUI_mxx9_jpg",
+            "target": 3553,
+            "type": 5121
+        }
+    }
+}

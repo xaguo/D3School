@@ -1,0 +1,2415 @@
+{
+    "accessors": {
+        "accessor_1095": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 24126,
+            "type": "SCALAR"
+        },
+        "accessor_1098": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 48252,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 2862,
+            "type": "SCALAR"
+        },
+        "accessor_1101": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 53976,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 1800,
+            "type": "SCALAR"
+        },
+        "accessor_1104": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 57576,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 2856,
+            "type": "SCALAR"
+        },
+        "accessor_1107": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 63288,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 2232,
+            "type": "SCALAR"
+        },
+        "accessor_1110": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 67752,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 1488,
+            "type": "SCALAR"
+        },
+        "accessor_1113": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 70728,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 372,
+            "type": "SCALAR"
+        },
+        "accessor_1116": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 71472,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 1128,
+            "type": "SCALAR"
+        },
+        "accessor_1119": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 73728,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 14622,
+            "type": "SCALAR"
+        },
+        "accessor_1122": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 102972,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 73917,
+            "type": "SCALAR"
+        },
+        "accessor_1124": {
+            "bufferView": "bufferView_1577",
+            "byteOffset": 0,
+            "byteStride": 12,
+            "componentType": 5126,
+            "count": 65532,
+            "max": [
+                131.488,
+                101.867,
+                20.4163
+            ],
+            "min": [
+                -131.488,
+                -101.867,
+                6.2298
+            ],
+            "type": "VEC3"
+        },
+        "accessor_1126": {
+            "bufferView": "bufferView_1577",
+            "byteOffset": 786384,
+            "byteStride": 12,
+            "componentType": 5126,
+            "count": 65532,
+            "max": [
+                0.9889,
+                0.9932,
+                1.0166
+            ],
+            "min": [
+                -0.9889,
+                -0.9932,
+                -1.0167
+            ],
+            "type": "VEC3"
+        },
+        "accessor_1128": {
+            "bufferView": "bufferView_1577",
+            "byteOffset": 1572768,
+            "byteStride": 8,
+            "componentType": 5126,
+            "count": 65532,
+            "max": [
+                44,
+                83.694
+            ],
+            "min": [
+                -43,
+                -82.694
+            ],
+            "type": "VEC2"
+        },
+        "accessor_1130": {
+            "bufferView": "bufferView_1577",
+            "byteOffset": 2097024,
+            "byteStride": 12,
+            "componentType": 5126,
+            "count": 65532,
+            "max": [
+                0.998389,
+                0.997764,
+                0.87034
+            ],
+            "min": [
+                -0.998309,
+                -0.998392,
+                -0.89972
+            ],
+            "type": "VEC3"
+        },
+        "accessor_1132": {
+            "bufferView": "bufferView_1577",
+            "byteOffset": 2883408,
+            "byteStride": 12,
+            "componentType": 5126,
+            "count": 65532,
+            "max": [
+                0.958909,
+                0.98198,
+                0.999995
+            ],
+            "min": [
+                -0.948448,
+                -0.975438,
+                -1
+            ],
+            "type": "VEC3"
+        },
+        "accessor_1226": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 250806,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6057,
+            "type": "SCALAR"
+        },
+        "accessor_1239": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 262920,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 1167,
+            "type": "SCALAR"
+        },
+        "accessor_1252": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 265254,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 9,
+            "type": "SCALAR"
+        },
+        "accessor_1265": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 265272,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 3972,
+            "type": "SCALAR"
+        },
+        "accessor_1278": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 273216,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 2832,
+            "type": "SCALAR"
+        },
+        "accessor_1291": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 278880,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_1304": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 278892,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_1317": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 278904,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_1330": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 278916,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 1035,
+            "type": "SCALAR"
+        },
+        "accessor_1343": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 280986,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 45,
+            "type": "SCALAR"
+        },
+        "accessor_1356": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 281076,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 10620,
+            "type": "SCALAR"
+        },
+        "accessor_1369": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 302316,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_1382": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 302328,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 12,
+            "type": "SCALAR"
+        },
+        "accessor_1395": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 302352,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 24,
+            "type": "SCALAR"
+        },
+        "accessor_1408": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 302400,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 66,
+            "type": "SCALAR"
+        },
+        "accessor_1421": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 302532,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 288,
+            "type": "SCALAR"
+        },
+        "accessor_1434": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 303108,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 288,
+            "type": "SCALAR"
+        },
+        "accessor_1447": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 303684,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 144,
+            "type": "SCALAR"
+        },
+        "accessor_1460": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 303972,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_1473": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 303984,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 3264,
+            "type": "SCALAR"
+        },
+        "accessor_1486": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 310512,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 468,
+            "type": "SCALAR"
+        },
+        "accessor_1499": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 311448,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_1512": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 311460,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_1525": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 311472,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 6,
+            "type": "SCALAR"
+        },
+        "accessor_1538": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 311484,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 12,
+            "type": "SCALAR"
+        },
+        "accessor_1551": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 311508,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 12,
+            "type": "SCALAR"
+        },
+        "accessor_1564": {
+            "bufferView": "bufferView_1576",
+            "byteOffset": 311532,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 24,
+            "type": "SCALAR"
+        },
+        "accessor_1566": {
+            "bufferView": "bufferView_1577",
+            "byteOffset": 3669792,
+            "byteStride": 12,
+            "componentType": 5126,
+            "count": 17722,
+            "max": [
+                130.927,
+                101.396,
+                18.6176
+            ],
+            "min": [
+                -128.542,
+                -99.5447,
+                -20.4163
+            ],
+            "type": "VEC3"
+        },
+        "accessor_1568": {
+            "bufferView": "bufferView_1577",
+            "byteOffset": 3882456,
+            "byteStride": 12,
+            "componentType": 5126,
+            "count": 17722,
+            "max": [
+                0.9889,
+                0.9932,
+                1.0165
+            ],
+            "min": [
+                -0.9889,
+                -0.9932,
+                -1.0168
+            ],
+            "type": "VEC3"
+        },
+        "accessor_1570": {
+            "bufferView": "bufferView_1577",
+            "byteOffset": 4095120,
+            "byteStride": 8,
+            "componentType": 5126,
+            "count": 17722,
+            "max": [
+                11.8022,
+                14.9827
+            ],
+            "min": [
+                -10.7454,
+                -13.9827
+            ],
+            "type": "VEC2"
+        },
+        "accessor_1572": {
+            "bufferView": "bufferView_1577",
+            "byteOffset": 4236896,
+            "byteStride": 12,
+            "componentType": 5126,
+            "count": 17722,
+            "max": [
+                0.997536,
+                0.999237,
+                0.999947
+            ],
+            "min": [
+                -0.99845,
+                -0.99921,
+                -0.999993
+            ],
+            "type": "VEC3"
+        },
+        "accessor_1574": {
+            "bufferView": "bufferView_1577",
+            "byteOffset": 4449560,
+            "byteStride": 12,
+            "componentType": 5126,
+            "count": 17722,
+            "max": [
+                0.999442,
+                0.999432,
+                0.999998
+            ],
+            "min": [
+                -0.999442,
+                -0.996736,
+                -1
+            ],
+            "type": "VEC3"
+        }
+    },
+    "animations": {},
+    "asset": {
+        "generator": "collada2gltf@abb81d52ce290268fdb67b96f5bc5c620dee5bb5",
+        "premultipliedAlpha": true,
+        "profile": "WebGL 1.0.2",
+        "version": 0.8
+    },
+    "bufferViews": {
+        "bufferView_1576": {
+            "buffer": "anLanSuoQiao",
+            "byteLength": 311580,
+            "byteOffset": 0,
+            "target": 34963
+        },
+        "bufferView_1577": {
+            "buffer": "anLanSuoQiao",
+            "byteLength": 4662224,
+            "byteOffset": 311580,
+            "target": 34962
+        }
+    },
+    "buffers": {
+        "anLanSuoQiao": {
+            "byteLength": 4973804,
+            "type": "arraybuffer",
+            "uri": "anLanSuoQiao.bin"
+        }
+    },
+    "images": {
+        "DJY_D1_BUI_TJ100_jpg": {
+            "uri": "images/25_DJY_D1_BUI_TJ100.jpg"
+        },
+        "DJY_D1_BUI_TJ101_jpg": {
+            "uri": "images/26_DJY_D1_BUI_TJ101.jpg"
+        },
+        "DJY_D1_BUI_TJ102_jpg": {
+            "uri": "images/24_DJY_D1_BUI_TJ102.jpg"
+        },
+        "DJY_D1_BUI_TJ103_jpg": {
+            "uri": "images/29_DJY_D1_BUI_TJ103.jpg"
+        },
+        "DJY_D1_BUI_TJ104_jpg": {
+            "uri": "images/33_DJY_D1_BUI_TJ104.jpg"
+        },
+        "DJY_D1_BUI_TJ105_jpg": {
+            "uri": "images/31_DJY_D1_BUI_TJ105.jpg"
+        },
+        "DJY_D1_BUI_TJ106_jpg": {
+            "uri": "images/27_DJY_D1_BUI_TJ106.jpg"
+        },
+        "DJY_D1_BUI_TJ107_jpg": {
+            "uri": "images/14_DJY_D1_BUI_TJ107.jpg"
+        },
+        "DJY_D1_BUI_TJ108_jpg": {
+            "uri": "images/11_DJY_D1_BUI_TJ108.jpg"
+        },
+        "DJY_D1_BUI_TJ109_jpg": {
+            "uri": "images/16_DJY_D1_BUI_TJ109.jpg"
+        },
+        "DJY_D1_BUI_TJ110_jpg": {
+            "uri": "images/15_DJY_D1_BUI_TJ110.jpg"
+        },
+        "DJY_D1_BUI_TJ111_jpg": {
+            "uri": "images/18_DJY_D1_BUI_TJ111.jpg"
+        },
+        "DJY_D1_BUI_TJ112_jpg": {
+            "uri": "images/17_DJY_D1_BUI_TJ112.jpg"
+        },
+        "DJY_D1_BUI_TJ130_jpg": {
+            "uri": "images/21_DJY_D1_BUI_TJ130.jpg"
+        },
+        "DJY_D1_BUI_TJ24_jpg": {
+            "uri": "images/10_DJY_D1_BUI_TJ24.jpg"
+        },
+        "DJY_D1_BUI_TJ26_jpg": {
+            "uri": "images/7_DJY_D1_BUI_TJ26.jpg"
+        },
+        "DJY_D1_BUI_TJ30_jpg": {
+            "uri": "images/32_DJY_D1_BUI_TJ30.jpg"
+        },
+        "DJY_D1_BUI_TJ47_jpg": {
+            "uri": "images/28_DJY_D1_BUI_TJ47.jpg"
+        },
+        "DJY_D1_BUI_TJ55_jpg": {
+            "uri": "images/13_DJY_D1_BUI_TJ55.jpg"
+        },
+        "DJY_D1_BUI_TJ56_jpg": {
+            "uri": "images/9_DJY_D1_BUI_TJ56.jpg"
+        },
+        "DJY_D1_BUI_TJ59_jpg": {
+            "uri": "images/30_DJY_D1_BUI_TJ59.jpg"
+        },
+        "DJY_D1_BUI_TJ60_jpg": {
+            "uri": "images/12_DJY_D1_BUI_TJ60.jpg"
+        },
+        "DJY_D1_BUI_TJ80_jpg": {
+            "uri": "images/3_DJY_D1_BUI_TJ80.jpg"
+        },
+        "DJY_D1_BUI_TJ81_jpg": {
+            "uri": "images/1_DJY_D1_BUI_TJ81.jpg"
+        },
+        "DJY_D1_BUI_TJ82_jpg": {
+            "uri": "images/2_DJY_D1_BUI_TJ82.jpg"
+        },
+        "DJY_D1_BUI_TJ84_jpg": {
+            "uri": "images/4_DJY_D1_BUI_TJ84.jpg"
+        },
+        "DJY_D1_BUI_TJ85_jpg": {
+            "uri": "images/0_DJY_D1_BUI_TJ85.jpg"
+        },
+        "DJY_D1_BUI_TJ90_jpg": {
+            "uri": "images/8_DJY_D1_BUI_TJ90.jpg"
+        },
+        "DJY_D1_BUI_TJ91_jpg": {
+            "uri": "images/19_DJY_D1_BUI_TJ91.jpg"
+        },
+        "DJY_D1_BUI_TJ92_jpg": {
+            "uri": "images/5_DJY_D1_BUI_TJ92.jpg"
+        },
+        "DJY_D1_BUI_TJ94_jpg": {
+            "uri": "images/6_DJY_D1_BUI_TJ94.jpg"
+        },
+        "DJY_D1_BUI_TJ97_jpg": {
+            "uri": "images/23_DJY_D1_BUI_TJ97.jpg"
+        },
+        "DJY_D1_BUI_TJ98_jpg": {
+            "uri": "images/20_DJY_D1_BUI_TJ98.jpg"
+        },
+        "DJY_D1_BUI_TJ99_jpg": {
+            "uri": "images/22_DJY_D1_BUI_TJ99.jpg"
+        }
+    },
+    "lights": {
+        "EnvironmentAmbientLight": {
+            "ambient": {
+                "color": [
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "type": "ambient"
+        }
+    },
+    "materials": {
+        "_anLanSuoQiaoMaterial__1138": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ80_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ80_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__1138"
+        },
+        "_anLanSuoQiaoMaterial__1152": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ81_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ81_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__1152"
+        },
+        "_anLanSuoQiaoMaterial__1156": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ82_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ82_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__1156"
+        },
+        "_anLanSuoQiaoMaterial__1164": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ84_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ84_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__1164"
+        },
+        "_anLanSuoQiaoMaterial__1171": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ85_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ85_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__1171"
+        },
+        "_anLanSuoQiaoMaterial__1295": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ91_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ91_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__1295"
+        },
+        "_anLanSuoQiaoMaterial__1362": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ111_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ111_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__1362"
+        },
+        "_anLanSuoQiaoMaterial__1374": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ112_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ112_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__1374"
+        },
+        "_anLanSuoQiaoMaterial__173": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ99_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ99_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__173"
+        },
+        "_anLanSuoQiaoMaterial__18": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ56_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ56_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__18"
+        },
+        "_anLanSuoQiaoMaterial__187": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ98_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ98_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__187"
+        },
+        "_anLanSuoQiaoMaterial__228": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ100_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ100_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__228"
+        },
+        "_anLanSuoQiaoMaterial__231": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ101_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ101_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__231"
+        },
+        "_anLanSuoQiaoMaterial__243": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ102_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ102_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__243"
+        },
+        "_anLanSuoQiaoMaterial__2686": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ47_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ47_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__2686"
+        },
+        "_anLanSuoQiaoMaterial__3087": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ130_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ130_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__3087"
+        },
+        "_anLanSuoQiaoMaterial__332": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ55_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ55_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__332"
+        },
+        "_anLanSuoQiaoMaterial__43": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ90_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ90_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__43"
+        },
+        "_anLanSuoQiaoMaterial__5023": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ60_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ60_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__5023"
+        },
+        "_anLanSuoQiaoMaterial__537": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ106_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ106_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__537"
+        },
+        "_anLanSuoQiaoMaterial__586": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ97_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ97_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__586"
+        },
+        "_anLanSuoQiaoMaterial__599": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ92_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ92_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__599"
+        },
+        "_anLanSuoQiaoMaterial__600": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ26_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ26_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__600"
+        },
+        "_anLanSuoQiaoMaterial__626184": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ103_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ103_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__626184"
+        },
+        "_anLanSuoQiaoMaterial__626220": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ105_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ105_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__626220"
+        },
+        "_anLanSuoQiaoMaterial__626221": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ105_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ105_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__626221"
+        },
+        "_anLanSuoQiaoMaterial__626222": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ59_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ59_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__626222"
+        },
+        "_anLanSuoQiaoMaterial__626223": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ104_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ104_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__626223"
+        },
+        "_anLanSuoQiaoMaterial__626224": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ30_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ30_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__626224"
+        },
+        "_anLanSuoQiaoMaterial__626226": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ90_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ90_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__626226"
+        },
+        "_anLanSuoQiaoMaterial__626356": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ94_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ94_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__626356"
+        },
+        "_anLanSuoQiaoMaterial__676": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ107_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ107_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__676"
+        },
+        "_anLanSuoQiaoMaterial__693": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ108_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ108_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__693"
+        },
+        "_anLanSuoQiaoMaterial__694": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ110_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ110_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__694"
+        },
+        "_anLanSuoQiaoMaterial__695": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ109_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ109_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__695"
+        },
+        "_anLanSuoQiaoMaterial__709": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": "texture_DJY_D1_BUI_TJ24_jpg",
+                    "diffuse": "texture_DJY_D1_BUI_TJ24_jpg",
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "shininess": 0,
+                    "specular": [
+                        0.9,
+                        0.9,
+                        0.9,
+                        1
+                    ]
+                }
+            },
+            "name": "_anLanSuoQiaoMaterial__709"
+        }
+    },
+    "meshes": {
+        "geom-anLanSuoQiao": {
+            "name": "anLanSuoQiao",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1126",
+                        "POSITION": "accessor_1124",
+                        "TEXBINORMAL": "accessor_1132",
+                        "TEXCOORD_0": "accessor_1128",
+                        "TEXTANGENT": "accessor_1130"
+                    },
+                    "indices": "accessor_1095",
+                    "material": "_anLanSuoQiaoMaterial__1171",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1126",
+                        "POSITION": "accessor_1124",
+                        "TEXBINORMAL": "accessor_1132",
+                        "TEXCOORD_0": "accessor_1128",
+                        "TEXTANGENT": "accessor_1130"
+                    },
+                    "indices": "accessor_1098",
+                    "material": "_anLanSuoQiaoMaterial__1152",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1126",
+                        "POSITION": "accessor_1124",
+                        "TEXBINORMAL": "accessor_1132",
+                        "TEXCOORD_0": "accessor_1128",
+                        "TEXTANGENT": "accessor_1130"
+                    },
+                    "indices": "accessor_1101",
+                    "material": "_anLanSuoQiaoMaterial__1156",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1126",
+                        "POSITION": "accessor_1124",
+                        "TEXBINORMAL": "accessor_1132",
+                        "TEXCOORD_0": "accessor_1128",
+                        "TEXTANGENT": "accessor_1130"
+                    },
+                    "indices": "accessor_1104",
+                    "material": "_anLanSuoQiaoMaterial__1138",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1126",
+                        "POSITION": "accessor_1124",
+                        "TEXBINORMAL": "accessor_1132",
+                        "TEXCOORD_0": "accessor_1128",
+                        "TEXTANGENT": "accessor_1130"
+                    },
+                    "indices": "accessor_1107",
+                    "material": "_anLanSuoQiaoMaterial__1164",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1126",
+                        "POSITION": "accessor_1124",
+                        "TEXBINORMAL": "accessor_1132",
+                        "TEXCOORD_0": "accessor_1128",
+                        "TEXTANGENT": "accessor_1130"
+                    },
+                    "indices": "accessor_1110",
+                    "material": "_anLanSuoQiaoMaterial__599",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1126",
+                        "POSITION": "accessor_1124",
+                        "TEXBINORMAL": "accessor_1132",
+                        "TEXCOORD_0": "accessor_1128",
+                        "TEXTANGENT": "accessor_1130"
+                    },
+                    "indices": "accessor_1113",
+                    "material": "_anLanSuoQiaoMaterial__626356",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1126",
+                        "POSITION": "accessor_1124",
+                        "TEXBINORMAL": "accessor_1132",
+                        "TEXCOORD_0": "accessor_1128",
+                        "TEXTANGENT": "accessor_1130"
+                    },
+                    "indices": "accessor_1116",
+                    "material": "_anLanSuoQiaoMaterial__600",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1126",
+                        "POSITION": "accessor_1124",
+                        "TEXBINORMAL": "accessor_1132",
+                        "TEXCOORD_0": "accessor_1128",
+                        "TEXTANGENT": "accessor_1130"
+                    },
+                    "indices": "accessor_1119",
+                    "material": "_anLanSuoQiaoMaterial__43",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1126",
+                        "POSITION": "accessor_1124",
+                        "TEXBINORMAL": "accessor_1132",
+                        "TEXCOORD_0": "accessor_1128",
+                        "TEXTANGENT": "accessor_1130"
+                    },
+                    "indices": "accessor_1122",
+                    "material": "_anLanSuoQiaoMaterial__18",
+                    "primitive": 4
+                }
+            ]
+        },
+        "geom-anLanSuoQiaosplit_0": {
+            "name": "anLanSuoQiao1",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1226",
+                    "material": "_anLanSuoQiaoMaterial__18",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1239",
+                    "material": "_anLanSuoQiaoMaterial__709",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1252",
+                    "material": "_anLanSuoQiaoMaterial__693",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1265",
+                    "material": "_anLanSuoQiaoMaterial__5023",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1278",
+                    "material": "_anLanSuoQiaoMaterial__332",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1291",
+                    "material": "_anLanSuoQiaoMaterial__676",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1304",
+                    "material": "_anLanSuoQiaoMaterial__694",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1317",
+                    "material": "_anLanSuoQiaoMaterial__695",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1330",
+                    "material": "_anLanSuoQiaoMaterial__1374",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1343",
+                    "material": "_anLanSuoQiaoMaterial__1362",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1356",
+                    "material": "_anLanSuoQiaoMaterial__1295",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1369",
+                    "material": "_anLanSuoQiaoMaterial__187",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1382",
+                    "material": "_anLanSuoQiaoMaterial__3087",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1395",
+                    "material": "_anLanSuoQiaoMaterial__173",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1408",
+                    "material": "_anLanSuoQiaoMaterial__586",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1421",
+                    "material": "_anLanSuoQiaoMaterial__243",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1434",
+                    "material": "_anLanSuoQiaoMaterial__228",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1447",
+                    "material": "_anLanSuoQiaoMaterial__231",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1460",
+                    "material": "_anLanSuoQiaoMaterial__537",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1473",
+                    "material": "_anLanSuoQiaoMaterial__2686",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1486",
+                    "material": "_anLanSuoQiaoMaterial__626226",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1499",
+                    "material": "_anLanSuoQiaoMaterial__626184",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1512",
+                    "material": "_anLanSuoQiaoMaterial__626222",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1525",
+                    "material": "_anLanSuoQiaoMaterial__626220",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1538",
+                    "material": "_anLanSuoQiaoMaterial__626221",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1551",
+                    "material": "_anLanSuoQiaoMaterial__626224",
+                    "primitive": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_1568",
+                        "POSITION": "accessor_1566",
+                        "TEXBINORMAL": "accessor_1574",
+                        "TEXCOORD_0": "accessor_1570",
+                        "TEXTANGENT": "accessor_1572"
+                    },
+                    "indices": "accessor_1564",
+                    "material": "_anLanSuoQiaoMaterial__626223",
+                    "primitive": 4
+                }
+            ]
+        }
+    },
+    "nodes": {
+        "node-anLanSuoQiao": {
+            "children": [
+                "node_2"
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                -8.27673,
+                4.39258,
+                -20.7923,
+                1
+            ],
+            "name": "anLanSuoQiao"
+        },
+        "node_0": {
+            "children": [],
+            "light": "EnvironmentAmbientLight",
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "name": "EnvironmentAmbientLight"
+        },
+        "node_2": {
+            "children": [],
+            "matrix": [
+                -1,
+                8.74228e-008,
+                8.74228e-008,
+                0,
+                8.74228e-008,
+                1,
+                8.74228e-008,
+                0,
+                -8.74228e-008,
+                8.74228e-008,
+                -1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "meshes": [
+                "geom-anLanSuoQiao",
+                "geom-anLanSuoQiaosplit_0"
+            ],
+            "name": ""
+        },
+        "node_3": {
+            "children": [
+                "node_0",
+                "node-anLanSuoQiao"
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "name": "Y_UP_Transform"
+        }
+    },
+    "programs": {
+        "program_0": {
+            "attributes": [
+                "a_normal",
+                "a_position",
+                "a_texcoord0"
+            ],
+            "fragmentShader": "anLanSuoQiao0FS",
+            "vertexShader": "anLanSuoQiao0VS"
+        }
+    },
+    "samplers": {
+        "sampler_0": {
+            "magFilter": 9729,
+            "minFilter": 9729,
+            "wrapS": 10497,
+            "wrapT": 10497
+        }
+    },
+    "scene": "defaultScene",
+    "scenes": {
+        "defaultScene": {
+            "nodes": [
+                "node_3"
+            ]
+        }
+    },
+    "shaders": {
+        "anLanSuoQiao0FS": {
+            "type": 35632,
+            "uri": "anLanSuoQiao0FS.glsl"
+        },
+        "anLanSuoQiao0VS": {
+            "type": 35633,
+            "uri": "anLanSuoQiao0VS.glsl"
+        }
+    },
+    "skins": {},
+    "techniques": {
+        "technique0": {
+            "parameters": {
+                "ambient": {
+                    "type": 35678
+                },
+                "diffuse": {
+                    "type": 35678
+                },
+                "emission": {
+                    "type": 35666
+                },
+                "modelViewMatrix": {
+                    "semantic": "MODELVIEW",
+                    "type": 35676
+                },
+                "normal": {
+                    "semantic": "NORMAL",
+                    "type": 35665
+                },
+                "normalMatrix": {
+                    "semantic": "MODELVIEWINVERSETRANSPOSE",
+                    "type": 35675
+                },
+                "position": {
+                    "semantic": "POSITION",
+                    "type": 35665
+                },
+                "projectionMatrix": {
+                    "semantic": "PROJECTION",
+                    "type": 35676
+                },
+                "shininess": {
+                    "type": 5126
+                },
+                "specular": {
+                    "type": 35666
+                },
+                "texcoord0": {
+                    "semantic": "TEXCOORD_0",
+                    "type": 35664
+                }
+            },
+            "pass": "defaultPass",
+            "passes": {
+                "defaultPass": {
+                    "details": {
+                        "commonProfile": {
+                            "extras": {
+                                "doubleSided": false
+                            },
+                            "lightingModel": "Blinn",
+                            "parameters": [
+                                "ambient",
+                                "diffuse",
+                                "emission",
+                                "modelViewMatrix",
+                                "normalMatrix",
+                                "projectionMatrix",
+                                "shininess",
+                                "specular"
+                            ],
+                            "texcoordBindings": {
+                                "ambient": "TEXCOORD_0",
+                                "diffuse": "TEXCOORD_0"
+                            }
+                        },
+                        "type": "COLLADA-1.4.1/commonProfile"
+                    },
+                    "instanceProgram": {
+                        "attributes": {
+                            "a_normal": "normal",
+                            "a_position": "position",
+                            "a_texcoord0": "texcoord0"
+                        },
+                        "program": "program_0",
+                        "uniforms": {
+                            "u_ambient": "ambient",
+                            "u_diffuse": "diffuse",
+                            "u_emission": "emission",
+                            "u_modelViewMatrix": "modelViewMatrix",
+                            "u_normalMatrix": "normalMatrix",
+                            "u_projectionMatrix": "projectionMatrix",
+                            "u_shininess": "shininess",
+                            "u_specular": "specular"
+                        }
+                    },
+                    "states": {
+                        "enable": [
+                            2884,
+                            2929
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "textures": {
+        "texture_DJY_D1_BUI_TJ100_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ100_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ101_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ101_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ102_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ102_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ103_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ103_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ104_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ104_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ105_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ105_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ106_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ106_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ107_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ107_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ108_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ108_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ109_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ109_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ110_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ110_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ111_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ111_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ112_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ112_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ130_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ130_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ24_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ24_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ26_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ26_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ30_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ30_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ47_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ47_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ55_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ55_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ56_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ56_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ59_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ59_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ60_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ60_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ80_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ80_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ81_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ81_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ82_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ82_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ84_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ84_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ85_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ85_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ90_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ90_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ91_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ91_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ92_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ92_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ94_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ94_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ97_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ97_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ98_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ98_jpg",
+            "target": 3553,
+            "type": 5121
+        },
+        "texture_DJY_D1_BUI_TJ99_jpg": {
+            "format": 6408,
+            "internalFormat": 6408,
+            "sampler": "sampler_0",
+            "source": "DJY_D1_BUI_TJ99_jpg",
+            "target": 3553,
+            "type": 5121
+        }
+    }
+}
